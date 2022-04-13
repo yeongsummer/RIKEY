@@ -2,7 +2,7 @@
 
 > RIDE + BIKE = RIKEY 💚
 
-![rikey_logo](/uploads/1a2020ad742b42f8679f9ef50420e269/rikey_logo.png)
+![rikey_logo](README.assets/rikey_logo.png)
 
 
 ## 프로젝트 소개
@@ -156,13 +156,13 @@
 
 ### 3.1 아키텍처
 
-![서비스_아키텍처](/uploads/d711291d0d5edae9374517da55d13e84/서비스_아키텍처.png)
+![서비스_아키텍처](README.assets/서비스_아키텍처.png)
 
 
 
 ### 3.2 ERD
 
-![erd](/uploads/43bdc4dc91896e39d0ffae6db18c87e5/erd.png)
+![erd](README.assets/erd.png)
 
 
 
@@ -170,13 +170,13 @@
 
 > [ UI Prototype](https://www.figma.com/file/YZbTWMzc69LeCoL98ZLeix/rikey?node-id=0%3A1)
 
-![프로토타입](/uploads/e87875807d3b809f080c3d6a499f52aa/프로토타입.png)
+![프로토타입](README.assets/프로토타입.png)
 
 
 
 ### 3.4 API 명세서
 
-[API_명세서.html](/uploads/9ec21fb471bca9147f98d95aac8d6c7d/API_명세서.html)
+[API_명세서.html](README.assets/API_명세서.html)
 
 
 
